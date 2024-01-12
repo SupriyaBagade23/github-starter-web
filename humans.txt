@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Supriya -- Student -- bsupriya23@gmail.com
 
 # THANKS
 
